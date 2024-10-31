@@ -4,9 +4,13 @@
 
 The Wisp Distance mod will show the distance in meters in the buff text when you equip the wisp light in your accesory slot. If you use any other mods that change this value, it will be updated in the text.
 
+![](https://i.imgur.com/A4rTZmT.png)
+
 [ESP]
 
 El mod Wisp Distance te mostrará la distancia en metros en el texto del beneficio cuando te equipes la Luz de Wisp en tu ranura de accesorio. Si usas otros mods que cambian este valor, se reflejará en el texto.
+
+![](https://i.imgur.com/cxfHO9b.png)
 
 # About myself
 
@@ -33,11 +37,3 @@ O pregúntame en mis canales personales:
 
 * Turbeheim: https://discord.gg/JKQR3EWRbU
 * Más Turbero: https://discord.gg/y67YeVw62K
-
-[ENG]
-
-![](https://i.imgur.com/A4rTZmT.png)
-
-[ESP]
-
-![](https://i.imgur.com/cxfHO9b.png)
