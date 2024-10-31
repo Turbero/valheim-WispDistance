@@ -1,0 +1,9 @@
+{
+    "name": "WispDistance",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Turbero/valheim-WispDistance",
+    "description": "The Wisp Distance mod will show the distance in meters in the buff text when you equip the wisp light in your accesory slot. If you use any other mods that change this value, it will be updated in the text.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
