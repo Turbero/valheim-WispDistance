@@ -87,7 +87,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MODGEN\icon.png" />
-    <Content Include="MODGEN\WispDistance.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
