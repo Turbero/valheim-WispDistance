@@ -16,6 +16,8 @@ El mod Wisp Distance te mostrará la distancia en metros en el texto del benefic
 
 DISCORD: Turbero (Turbero#3465)
 
+My Mods: https://thunderstore.io/c/valheim/p/turbero/
+
 STEAM: https://steamcommunity.com/id/turbero
 
 For any concerns or doubts, find me in the Hijos de Freyja Team Discord or in my own channel (click on icons):
