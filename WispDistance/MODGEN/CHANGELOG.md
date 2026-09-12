@@ -1,5 +1,9 @@
 ### CHANGELOG
 
+## 1.0.3
+
+* Recompiled for compatibility with version 1.0
+
 ## 1.0.2
 
 * Deactivated mod automatically when BiomeConqueror mod is present since this mod is integrated in it (https://thunderstore.io/c/valheim/p/turbero/BiomeConqueror/)

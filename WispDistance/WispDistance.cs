@@ -10,7 +10,7 @@ namespace WispDistance
     {
         public const string GUID = "Turbero.WispDistance";
         public const string NAME = "Wisp Distance";
-        public const string VERSION = "1.0.2";
+        public const string VERSION = "1.0.3";
 
         private readonly Harmony harmony = new Harmony(GUID);
 
